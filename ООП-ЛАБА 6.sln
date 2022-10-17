@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ООП-ЛАБА 6", "ООП-ЛАБА 6\ООП-ЛАБА 6.csproj", "{07BBA9AA-4192-4812-A567-AF02017C3AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Book Shop", "Problem 2. Book Shop\Problem 2. Book Shop.csproj", "{F332B040-8AD9-4A35-AC02-9C82B8FA77CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Mankind", "Problem 3. Mankind\Problem 3. Mankind.csproj", "{773CD5D2-2DEE-4E14-9F28-3F591B84C6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Online Radio Database", "Problem 4. Online Radio Database\Problem 4. Online Radio Database.csproj", "{95FE4B22-7F1F-4785-810B-8734B8E2D0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Mordor’s Cruel Plan", "Problem 5. Mordor’s Cruel Plan\Problem 5. Mordor’s Cruel Plan.csproj", "{28695187-FE38-464B-A22E-1FDEBAD7B4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Animals", "Problem 6. Animals\Problem 6. Animals.csproj", "{6E01D1E7-252C-4725-9CEF-40771BFE2296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BBA9AA-4192-4812-A567-AF02017C3AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BBA9AA-4192-4812-A567-AF02017C3AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BBA9AA-4192-4812-A567-AF02017C3AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BBA9AA-4192-4812-A567-AF02017C3AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F332B040-8AD9-4A35-AC02-9C82B8FA77CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F332B040-8AD9-4A35-AC02-9C82B8FA77CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F332B040-8AD9-4A35-AC02-9C82B8FA77CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F332B040-8AD9-4A35-AC02-9C82B8FA77CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773CD5D2-2DEE-4E14-9F28-3F591B84C6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773CD5D2-2DEE-4E14-9F28-3F591B84C6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773CD5D2-2DEE-4E14-9F28-3F591B84C6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773CD5D2-2DEE-4E14-9F28-3F591B84C6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FE4B22-7F1F-4785-810B-8734B8E2D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FE4B22-7F1F-4785-810B-8734B8E2D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FE4B22-7F1F-4785-810B-8734B8E2D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FE4B22-7F1F-4785-810B-8734B8E2D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28695187-FE38-464B-A22E-1FDEBAD7B4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28695187-FE38-464B-A22E-1FDEBAD7B4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28695187-FE38-464B-A22E-1FDEBAD7B4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28695187-FE38-464B-A22E-1FDEBAD7B4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E01D1E7-252C-4725-9CEF-40771BFE2296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01D1E7-252C-4725-9CEF-40771BFE2296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01D1E7-252C-4725-9CEF-40771BFE2296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01D1E7-252C-4725-9CEF-40771BFE2296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521C9088-63F6-443B-ABD3-408C5596DE73}
+	EndGlobalSection
+EndGlobal
